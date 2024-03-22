@@ -1,0 +1,150 @@
+/* Additional CSS */
+
+ul li {
+    list-style-position: outside;
+}
+
+    img.alignleft {
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+
+img.alignright {
+    float: right;
+    margin: 0px 0px 15px 15px;
+}
+
+.home-intro .news article h4 {
+    background: #54b948;
+    padding: 0.75em;
+    color: #ffffff;
+    margin: 0;
+    font-size: 1.15em;
+    text-align: left;
+    min-height: 78px;
+    white-space: normal !important;
+    }
+
+    
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+and (orientation : portrait) 
+ { 
+
+
+
+.custom-events-list .col-1 p {
+    line-height: 13px;
+}
+
+.custom-events-list .col-2 a {
+    display: inline-block;
+}
+
+    .pagination a.next {
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.custom-events-list {
+  margin-bottom: 30px;
+}
+
+.custom-events-list p, .custom-events-list a, .custom-events-list .locations-list-headings  {
+    font-size: 12px;
+}
+
+.custom-events-list .col-1 {
+  width: 25%;
+  float: left;
+}
+.custom-events-list .col-2 {
+  width: 25%;
+  float: left;
+}
+
+.custom-events-list .col-3 {
+  width: 25%;
+  float: left;
+}
+
+.custom-events-list .col-4 {
+  width: 25%;
+  float: left;
+}
+
+.custom-events-list .custom-locations-list li {
+    padding: 5px;
+}
+
+.custom-events-list .col-2 p {
+    width: 270px;
+    display: inline-table;
+    margin-left: -65px;
+    padding: 10px 0px;
+    margin-top: 25px;
+}
+
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px)
+and (orientation : portrait)  {
+
+
+.custom-events-list .col-1 p {
+    line-height: 13px;
+}
+
+.custom-events-list .col-2 a {
+    display: inline-block;
+}
+
+    .custom-events-list .col-2 p {
+    width: 317px;
+    display: inline-table;
+    margin-left: -78px;
+    padding: 10px 0px;
+    margin-top: 25px;
+}
+
+.pagination a.next {
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+}
+
+
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) 
+and (orientation : portrait) { 
+
+
+.custom-events-list .col-1 p {
+    line-height: 13px;
+}
+
+.custom-events-list .col-2 a {
+    display: inline-block;
+}
+
+    .pagination a.next {
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.custom-events-list .col-2 p {
+    width: 357px;
+    display: inline-table;
+    margin-left: -89px;
+    padding: 10px 0px;
+    margin-top: 25px;
+}
+
+}
