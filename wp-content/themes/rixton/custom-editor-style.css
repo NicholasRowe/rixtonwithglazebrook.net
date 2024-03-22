@@ -1,0 +1,12 @@
+body#tinymce.wp-editor { 
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+
+body#tinymce.wp-editor .sub-nm {
+    color: #4CA6CF;
+}
+
+.subheading-nm {
+    margin-bottom:0;
+}
